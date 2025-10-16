@@ -46,7 +46,7 @@ ________________________________________________________________________________
 
 💼 Experience  
 --------------
-Web Development – Coincent PVT.LTD 
+Web Development – Coincent PVT.LTD   
 May 2023 – Jun 2023  
 During this internship, I established a robust foundation in web design by mastering core HTML5 structure and advanced CSS3 styling techniques.   
 This experience focused heavily on creating static, visually appealing, and responsive user interfaces from scratch.  
