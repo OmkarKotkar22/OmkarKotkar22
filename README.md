@@ -3,14 +3,15 @@
 
 
 📱 Mobile: +91-9373322140  
-💬 WhatsApp: Chat on WhatsApp  
-🤝 Let's Connect: LinkedIn Profile | Email  
+🤝 Let's Connect: Email: omkar.engineer01@gmail.com  
+🤝 Let's Connect: LinkedIn Profile: https://www.linkedin.com/in/omkar-kotkar-44a109268/ 
+
 ______________________________________________________________________________________________________________________________________________________________________
 💻 Aspiring Software Engineer | 🚀 Problem Solver 
 ______________________________________________________________________________________________________________________________________________________________________
 
 
-🚀 About Me  
+🚀 About Me 
 ------------
 🔭 I have a strong desire to solve real-world issues and create software solutions that have an impact.    
 💡 I enjoy constantly learning new things and developing my abilities.  
@@ -64,7 +65,7 @@ ________________________________________________________________________________
 
 🛠️ Projects  
 ------------
-Tours and Travels(Simple HTML and CSS) (May 2023 – Jun 2023) 
+Tours and Travels(Simple HTML and CSS) (May 2023 – Jun 2023)  
 Food Ordering Website (Aug 2023 – Oct 2023)  
 Hospital Website (Dec 2023 – Mar 2024)  
 Construction Website (Dec 2023 – Mar 2024)  
@@ -75,19 +76,23 @@ ________________________________________________________________________________
 
 🛠️ Skills & Technologies  
 -------------------------
+
 🖥️ Languages & Frameworks  
 Java – Core Java  
 C++ (C++ 14.2.0)  
+_________________________________
+🌐 Web Technologies
 
-🌐 Web Technologies  
 HTML5  
 CSS3  
 Bootstrap 5  
-
+_________________________________
 🗄️ Database  
-MySQL (8.0)  
 
+MySQL (8.0)  
+_________________________________
 🛠️ Tools & Platforms  
+
 Git  
 GitHub  
 
@@ -96,14 +101,15 @@ ________________________________________________________________________________
 📫 Contact  
 -----------
 📍 Ahilyanagar, Maharashtra, India  
-📧 omkar.engineer01@gmail.com  
-📱 +91-9373322140  
-LinkedIn Profile  
+📱 Mobile No.: +91-9373322140   
+📧 Email: omkar.engineer01@gmail.com    
+🌐 LinkedIn Profile : https://www.linkedin.com/in/omkar-kotkar-44a109268/ 
 
 _____________________________________________________________________________________________________________________________________________________________________
 
 Languages: English, Hindi, Marathi | DOB: 22th January 2004  
 _____________________________________________________________________________________________________________________________________________________________________
+
 Thank you for visiting my profile!
 
 💡 Always open to collaboration, mentorship, and learning opportunities!
