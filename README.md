@@ -22,7 +22,7 @@
 
 ## 🏆 Highlights  
 
-✨ **Fall Detection System (Python Project)** — AI-based elderly monitoring and movement analysis.  
+✨ **Fall Detection System (Python Project)** — This is Final Year Project, Real-time based elderly monitoring and movement analysis.  
 🏫 **School Management Website** — Responsive web app with dynamic admissions, payments, and gallery modules.  
 🏥 **Hospital Website** — Informational and service-oriented healthcare web platform.  
 🍏 **Apple Certified in Swift Programming** — 6-month certification on iOS/macOS fundamentals.  
