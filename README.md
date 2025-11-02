@@ -136,20 +136,25 @@
 
 ---
 
-## 🌐 Connect With Me  
+---
 
-<p align="center">
-  [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:omkarkotkar22@gmail.com)
-  <!-- <a href="mailto:omkar.engineer01@gmail.com" target="_blank">
+### 🔗 Connect With Me  
+
+[![GitHub Badge](https://img.shields.io/badge/GitHub-OmkarKotkar22-black?style=for-the-badge&logo=github)](https://github.com/OmkarKotkar22)  
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-https://www.linkedin.com/in/omkar-kotkar-44a109268/-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/omkar-kotkar-12345/)  
+[![Gmail Badge](https://img.shields.io/badge/Gmail-omkar.engineer01@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:omkarkotkar22@gmail.com)
+
+<!-- <p align="center">
+  <a href="mailto:omkar.engineer01@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-  </a>   -->
+  </a>  
   <a href="https://www.linkedin.com/in/omkar-kotkar-44a109268/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://github.com/OmkarKotkar22">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
-</p>
+</p> -->
 
 ---
 
