@@ -97,6 +97,31 @@ GitHub
 
 ______________________________________________________________________________________________________________________________________________________________________
 
+
+## 📊 GitHub Stats & Visuals
+----------------------
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=OmkarKotkar22&show_icons=true&theme=radical" alt="GitHub Stats" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OmkarKotkar22&layout=compact&theme=radical" alt="Top Languages" height="170"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=OmkarKotkar22&theme=radical" alt="GitHub Streak"/>
+</p>
+
+---
+
+## 🧠 Animated Tech Graph (Hotel Palace)
+
+```mermaid
+pie title "Tech Usage in Hotel Palace"
+  "HTML" : 50
+  "CSS" : 35
+  "JavaScript" : 15
+
+______________________________________________________________________________________________________________________________________________________________________
+
 📫 Contact  
 -----------
 📍 Ahilyanagar, Maharashtra, India  
