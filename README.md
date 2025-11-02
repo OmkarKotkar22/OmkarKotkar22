@@ -139,9 +139,10 @@
 ## 🌐 Connect With Me  
 
 <p align="center">
-  <a href="mailto:omkar.engineer01@gmail.com" target="_blank">
+  [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:omkarkotkar22@gmail.com)
+  <!-- <a href="mailto:omkar.engineer01@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-  </a>  
+  </a>   -->
   <a href="https://www.linkedin.com/in/omkar-kotkar-44a109268/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
