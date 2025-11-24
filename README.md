@@ -102,10 +102,7 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=OmkarKotkar22&show_icons=true&theme=radical" height="170" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OmkarKotkar22&layout=compact&theme=radical" height="180" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=OmkarKotkar22&theme=radical&hide_border=true" height="170" alt="GitHub Streak Stats" />
+  <img src="https://streak-stats.demolab.com/?user=OmkarKotkar22&theme=radical&hide_border=true" height="170" alt="GitHub Streak Stats" />
 </p>
 
 <!-- <p align="center">
