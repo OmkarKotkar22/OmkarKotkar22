@@ -10,7 +10,6 @@
 
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=OmkarKotkar22&style=for-the-badge&color=blueviolet"/>
   <img src="https://img.shields.io/github/followers/OmkarKotkar22?style=for-the-badge&color=ff69b4"/>
   <img src="https://img.shields.io/github/stars/OmkarKotkar22?style=for-the-badge&color=yellow"/>
 </p>
@@ -104,14 +103,14 @@ Dr. Vithalrao Vikhe Patil College Of Engineering, Ahilyanagar
 
 ## 🚀 Projects Showcase  
 
-| 🚧 Project | 📖 Description | ⚙️ Tech |
-|----------|---------------|--------|
-| Tours & Travels | Static travel package site | HTML, CSS |
-| Hospital Website | Medical service platform | HTML, CSS |
-| Construction Website | Business website | HTML, CSS, Bootstrap |
-| Food Ordering Website | Simulated ordering system | HTML, CSS, JS |
-| Tours & Travels (Dynamic) | PHP-MySQL based site | HTML, CSS, PHP, MySQL |
-| School Management System | Full-stack web app | HTML, CSS, PHP, MySQL |
+| 🚧 Project    | 📖 Description    | ⚙️ Tech |
+|----------  |---------------  |--------|
+| Tours & Travels   | Static travel package site   | HTML, CSS |
+| Hospital Website   | Medical service platform   | HTML, CSS |
+| Construction Website   | Business website   | HTML, CSS, Bootstrap |
+| Food Ordering Website   | Simulated ordering system   | HTML, CSS, JS |
+| Tours & Travels (Dynamic)   | PHP-MySQL based site   | HTML, CSS, PHP, MySQL |
+| School Management System   | Full-stack web app   | HTML, CSS, PHP, MySQL |
 
 ---
 
