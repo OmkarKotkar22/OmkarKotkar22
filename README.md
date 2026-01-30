@@ -10,6 +10,7 @@
 
 
 <p align="center">
+    <img src="https://komarev.com/ghpvc/?username=OmkarKotkar22&style=for-the-badge&color=blueviolet"/>
   <img src="https://img.shields.io/github/followers/OmkarKotkar22?style=for-the-badge&color=ff69b4"/>
   <img src="https://img.shields.io/github/stars/OmkarKotkar22?style=for-the-badge&color=yellow"/>
 </p>
