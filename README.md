@@ -23,7 +23,6 @@
   <img src="https://user-images.githubusercontent.com/74038190/212750047-3b6d6f61-9a1d-4d9c-bb1b-75c34a1e1c15.gif" width="100%" />
 </p>
 
----
 ## 🌟 About Me  
 
 * 🔭 Passionate about solving **real-world problems** using software  
