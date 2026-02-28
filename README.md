@@ -140,12 +140,8 @@ Dr. Vithalrao Vikhe Patil College Of Engineering, Ahilyanagar
 ## 📊 GitHub Performance  
 
 <p align="center">
-  <!-- <img src="https://github-readme-stats.herokuapp.com/api?username=OmkarKotkar22&show_icons=true&theme=radical&hide_border=true" height="180"/> -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=OmkarKotkar22&theme=radical&hide_border=true" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OmkarKotkar22&layout=compact&theme=radical" height="180" alt="Top Languages" /> 
-  <!-- <img src="https://github-readme-stats.vercel.app/api?username=OmkarKotkar22&show_icons=true&theme=radical" height="170" alt="GitHub Stats" /> -->
-  <!-- <img src="https://streak-stats.demolab.com/?user=OmkarKotkar22&theme=radical&hide_border=true" height="170" alt="GitHub Streak Stats" /> </p>  -->
-  <!-- <p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=OmkarKotkar22&theme=radical&no-frame=true&margin-w=15" /> </p> -->
+
   
 ---
 
